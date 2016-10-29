@@ -1,0 +1,9 @@
+c:\users\jimmy\documents\visual studio 2015\Projects\CCApp\CCApp\bin\Debug\CCApp.exe.config
+c:\users\jimmy\documents\visual studio 2015\Projects\CCApp\CCApp\bin\Debug\CCApp.exe
+c:\users\jimmy\documents\visual studio 2015\Projects\CCApp\CCApp\bin\Debug\CCApp.pdb
+c:\users\jimmy\documents\visual studio 2015\Projects\CCApp\CCApp\obj\Debug\CCApp.csprojResolveAssemblyReference.cache
+c:\users\jimmy\documents\visual studio 2015\Projects\CCApp\CCApp\obj\Debug\CCApp.exe
+c:\users\jimmy\documents\visual studio 2015\Projects\CCApp\CCApp\obj\Debug\CCApp.pdb
+c:\users\jimmy\documents\visual studio 2015\Projects\CCApp\CCApp\bin\Debug\OpenNLP.dll
+c:\users\jimmy\documents\visual studio 2015\Projects\CCApp\CCApp\bin\Debug\SharpEntropy.dll
+c:\users\jimmy\documents\visual studio 2015\Projects\CCApp\CCApp\bin\Debug\Resources\EnglishSD.nbin
